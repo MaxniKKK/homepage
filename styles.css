@@ -177,6 +177,16 @@ h4.intro_text {
 	text-align: justify;
 }
 
+.skills__list {
+	margin: 0;
+	padding: 0 25px;
+}
+
+.skills__item {
+	color: var(--secondary-text-color);
+	text-align: justify;
+}
+
 /* Experience and additional info styles */
 
 .experiences {

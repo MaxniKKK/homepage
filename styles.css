@@ -157,10 +157,6 @@ body {
 	fill: var(--text-decoration-color);
 }
 
-h4.intro_text {
-	font-weight: normal;
-}
-
 .intro_text {
 	color: var(--secondary-text-color);
 	text-align: justify;

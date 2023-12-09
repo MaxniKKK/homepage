@@ -46,7 +46,7 @@ body {
 
 .resume__block {
 	border-bottom: 3px solid var(--border-color);
-	padding-bottom: 30px;
+	padding-bottom: 15px;
 	margin-bottom: 15px;
 }
 
@@ -157,6 +157,10 @@ body {
 	fill: var(--text-decoration-color);
 }
 
+h4.intro_text {
+	font-weight: normal;
+}
+
 .intro_text {
 	color: var(--secondary-text-color);
 	text-align: justify;
@@ -169,6 +173,16 @@ body {
 }
 
 .skills__text {
+	color: var(--secondary-text-color);
+	text-align: justify;
+}
+
+.skills__list {
+	margin: 0;
+	padding: 0 25px;
+}
+
+.skills__item {
 	color: var(--secondary-text-color);
 	text-align: justify;
 }
@@ -248,7 +262,7 @@ body {
 .additional-info__education-university-speciality {
 	color: var(--primary-text-color);
 	text-align: left;
-	margin-bottom: 10px;
+	margin-top: 10px;
 }
 
 .additional-info__education-university-name {

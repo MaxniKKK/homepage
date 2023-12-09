@@ -46,7 +46,7 @@ body {
 
 .resume__block {
 	border-bottom: 3px solid var(--border-color);
-	padding-bottom: 30px;
+	padding-bottom: 15px;
 	margin-bottom: 15px;
 }
 
@@ -155,6 +155,10 @@ body {
 
 .intro__icon path {
 	fill: var(--text-decoration-color);
+}
+
+h4.intro_text {
+	font-weight: normal;
 }
 
 .intro_text {
